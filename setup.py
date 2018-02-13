@@ -6,7 +6,7 @@ setup(name="systeminfo1",
       author="Aonghus Lawlor",
       author_email="aonghua.lawlor@ucd.ie",
       licence="GPL3",
-      packages=['systeminfo1'],
+      packages=['systeminfo'],
       entry_points={'console_scripts':
                     ['comp30670_systeminfo1=systeminfo.main:main'] 
                     },
